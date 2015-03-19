@@ -1,1 +1,1 @@
-{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{}},"description":"Projeto de teste.","type":"GAEPhp","attributes":{"language":["php"]}}
+{"mixinTypes":["contribution"],"builders":{"configs":{}},"runners":{"configs":{}},"description":"Projeto de teste.","type":"GAEPhp","attributes":{"language":["php"],"contribute_branch":["master"],"contribute_mode":["contribute"]}}
