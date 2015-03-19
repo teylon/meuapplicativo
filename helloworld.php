@@ -1,3 +1,3 @@
 <?php
-echo 'Meu aplicativo0!';
+echo 'Meu aplicativo!';
 ?>
